@@ -1,5 +1,10 @@
-# Capstone-Project-2
-Rossmann Store Sales Prediction Project
+# Rossmann Store Sales Prediction 
+AlmaBetter Verified Project
+
+![image](https://github.com/Shubham-droid24/Rossmann-Store-Sales-Prediction/assets/72461022/48c12c74-5565-49ba-8534-b4dd6349f71b)
+
+
+I have built machine learning models for solving regression problem to predict the daily sales of rossmann stores. I have used Linear Regression, Decision Tree Regressor and Random Forest Regressor algorithms to solve the problem and got the best results from Random Forest Regressor.
 
 ## Problem Statement
 
